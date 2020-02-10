@@ -1,4 +1,6 @@
-staging http://artifactory:8081/artifactory/api/conan/conan-staging True
-production http://artifactory:8081/artifactory/api/conan/conan-production True
+conan-build http://host.docker.internal:8081/artifactory/api/conan/conan-staging True
+conan-build http://host.docker.internal:8081/artifactory/api/conan/conan-staging True
+conan-staging http://host.docker.internal:8081/artifactory/api/conan/conan-staging True
+conan-production http://host.docker.internal:8081/artifactory/api/conan/conan-production True
 conan-center https://conan.bintray.com True
 bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
