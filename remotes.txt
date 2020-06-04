@@ -1,1 +1,2 @@
-conan-center https://conan.bintray.com True
+conan-tmp http://jfrog.local:8081/artifactory/api/conan/conan-tmp True
+conan-develop http://jfrog.local:8081/artifactory/api/conan/conan-develop True
